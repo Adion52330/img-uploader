@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://image-uploader-adion.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://image-uploader-adion.vercel.app/">
       Solution
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![screenshot](https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FImageUploaderThumbnail.png%3Falt%3Dmedia%26token%3Df32259ea-dd8f-4146-9a89-6e3c817b3167&w=750&q=75)
 
-- You can see my project at
+- You can see my project at [https://image-uploader-adion.vercel.app/](https://image-uploader-adion.vercel.app/)
 - The experience was exhilerating. It is an amazing project to do for beginners.
 - I learnt firebase image uploading and react-dropzone.
 
